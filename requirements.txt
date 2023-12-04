@@ -13,7 +13,7 @@ inflection
 jsonmerge
 kornia
 lark
-numpy
+#numpy
 omegaconf
 open-clip-torch
 
@@ -28,7 +28,7 @@ safetensors
 scikit-image>=0.19
 timm
 tomesd
-torch
+#torch
 torchdiffeq
 torchsde
 transformers==4.30.2
